@@ -41,13 +41,13 @@ const Quotes = () => {
       </div>
       <div id="buttons">
         <div className="social-media">
-          <a href="twitter.com/intent/tweet" id="tweet-quote">
+          <a target="_blank" href="https://twitter.com/intent/tweet" id="tweet-quote">
             <span>
               <i className="fa fa-twitter"></i>
             </span>
           </a>
-
-          <a href="twitter.com/tumblr/tweet" id="tumblr-quote">
+          
+          <a target="_blank" href="https://www.tumblr.com/widgets/share/tool" id="tumblr-quote">
             <span>
               <i className="fa fa-tumblr"></i>
             </span>
